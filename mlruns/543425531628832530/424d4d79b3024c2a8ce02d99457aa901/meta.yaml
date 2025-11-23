@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/543425531628832530/424d4d79b3024c2a8ce02d99457aa901/artifacts
+end_time: 1763876466336
+entry_point_name: ''
+experiment_id: '543425531628832530'
+lifecycle_stage: active
+run_id: 424d4d79b3024c2a8ce02d99457aa901
+run_name: unruly-elk-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763876457366
+status: 3
+tags: []
+user_id: prady

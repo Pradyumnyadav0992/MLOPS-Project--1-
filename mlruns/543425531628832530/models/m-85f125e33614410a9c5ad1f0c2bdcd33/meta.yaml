@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/543425531628832530/models/m-85f125e33614410a9c5ad1f0c2bdcd33/artifacts
+creation_timestamp: 1763876458165
+experiment_id: '543425531628832530'
+last_updated_timestamp: 1763876466314
+model_id: m-85f125e33614410a9c5ad1f0c2bdcd33
+model_type: ''
+name: random_forest_wine_model
+source_run_id: 424d4d79b3024c2a8ce02d99457aa901
+status: 2
+status_message: null

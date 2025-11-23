@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/ad90d9aa247f4739b95bae59ee1bc78c/artifacts
+end_time: 1763875457765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad90d9aa247f4739b95bae59ee1bc78c
+run_name: beautiful-roo-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763875455717
+status: 3
+tags: []
+user_id: prady

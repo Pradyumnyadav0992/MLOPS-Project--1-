@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/543425531628832530/2251f770920b4263b543b1983388c7b9/artifacts
+end_time: 1763876178966
+entry_point_name: ''
+experiment_id: '543425531628832530'
+lifecycle_stage: active
+run_id: 2251f770920b4263b543b1983388c7b9
+run_name: likeable-mink-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763876178283
+status: 3
+tags: []
+user_id: prady

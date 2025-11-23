@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9bac9035a74c4bd9b0269c141d6aebcf/artifacts
+end_time: 1763875408592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bac9035a74c4bd9b0269c141d6aebcf
+run_name: casual-mole-965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763875408304
+status: 4
+tags: []
+user_id: prady
